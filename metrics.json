@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9442,
+  "train_accuracy": 1.0,
+  "confusion_matrix": [[607, 16], [54, 577]],
+  "labels": ["FAKE", "REAL"],
+  "model_type": "Support Vector Classifier (SVC, C = 2)",
+  "vectorizer": "TF-IDF"
+}
