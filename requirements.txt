@@ -4,4 +4,5 @@ matplotlib
 seaborn
 nltk
 scikit-learn
+plotly
 joblib
